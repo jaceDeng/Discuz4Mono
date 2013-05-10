@@ -1,0 +1,8 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Discuz.Entity.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Discuz.Entity.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Discuz.Common.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Newtonsoft.Json.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Discuz.Common.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.csprojResolveAssemblyReference.cache
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.pdb

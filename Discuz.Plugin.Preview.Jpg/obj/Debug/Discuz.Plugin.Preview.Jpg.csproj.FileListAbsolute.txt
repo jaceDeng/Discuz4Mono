@@ -1,0 +1,10 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.pdb
+E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.pdb

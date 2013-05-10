@@ -1,0 +1,10 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Spread.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Spread.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.pdb
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.pdb

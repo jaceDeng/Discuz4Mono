@@ -1,0 +1,5 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Space.Modules.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Space.Modules.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\obj\Release\Discuz.Space.Modules.csprojResolveAssemblyReference.cache
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\obj\Release\Discuz.Space.Modules.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\obj\Release\Discuz.Space.Modules.pdb

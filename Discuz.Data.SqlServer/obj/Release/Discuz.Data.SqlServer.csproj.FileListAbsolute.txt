@@ -1,0 +1,5 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Data.SqlServer.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Data.SqlServer.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Data.SqlServer\obj\Release\Discuz.Data.SqlServer.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Data.SqlServer\obj\Release\Discuz.Data.SqlServer.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Data.SqlServer\obj\Release\Discuz.Data.SqlServer.csprojResolveAssemblyReference.cache

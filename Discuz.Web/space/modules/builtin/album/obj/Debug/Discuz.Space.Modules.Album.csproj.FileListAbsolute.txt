@@ -1,0 +1,10 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Space.Modules.Album.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Space.Modules.Album.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.csprojResolveAssemblyReference.cache
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.pdb
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Space.Modules.Album.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Space.Modules.Album.pdb
+E:\OpenSource\Discuz4Mono\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.pdb

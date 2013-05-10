@@ -1,0 +1,5 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Web.Admin.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Web.Admin.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\admin\obj\Release\Discuz.Web.Admin.csprojResolveAssemblyReference.cache
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\admin\obj\Release\Discuz.Web.Admin.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\admin\obj\Release\Discuz.Web.Admin.pdb

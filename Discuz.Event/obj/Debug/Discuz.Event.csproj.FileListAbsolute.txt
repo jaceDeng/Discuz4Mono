@@ -1,0 +1,10 @@
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Event.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Event.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Debug\Discuz.Event.dll
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Debug\Discuz.Event.pdb
+E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Debug\Discuz.Event.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Event.dll
+E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Event.pdb
+E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.csprojResolveAssemblyReference.cache
+E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.dll
+E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.pdb
