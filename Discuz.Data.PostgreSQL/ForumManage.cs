@@ -473,10 +473,11 @@ ORDER BY [f].[displayorder]
 
         public int CreateFullTextIndex(string dbName)
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("USE {0};", dbName);
-            sb.Append("execute sp_fulltext_database 'enable';");
-            return DbHelper.ExecuteNonQuery(CommandType.Text, sb.ToString());
+            //StringBuilder sb = new StringBuilder();
+            //sb.AppendFormat("USE {0};", dbName);
+            //sb.Append("execute sp_fulltext_database 'enable';");
+            //return DbHelper.ExecuteNonQuery(CommandType.Text, sb.ToString());
+            return 1;
         }
 
         public int GetMaxForumId()
@@ -864,17 +865,13 @@ ORDER BY [f].[displayorder]
                         parms[2].Value = parentid;
                         parms[3].Value = displayorder;
                         StringBuilder sb = new StringBuilder();
-                        sb.Append(@"UPDATE [dnt_forums] SET [displayorder]=[displayorder]-1 WHERE [displayorder]>@displayorder;
-UPDATE [dnt_forums] SET [subforumcount]=[subforumcount]-1 WHERE  [fid]=@parentid;
-DELETE FROM [dnt_forumfields] WHERE [fid]=@fid;
-DELETE FROM [dnt_polls] WHERE [tid] IN (SELECT [tid] FROM [dnt_topics] WHERE [fid]=@fid);");
+                        sb.Append(@"UPDATE [dnt_forums] SET [displayorder]=[displayorder]-1 WHERE [displayorder]>@displayorder;UPDATE [dnt_forums] SET [subforumcount]=[subforumcount]-1 WHERE  [fid]=@parentid;
+DELETE FROM [dnt_forumfields] WHERE [fid]=@fid;DELETE FROM [dnt_polls] WHERE [tid] IN (SELECT [tid] FROM [dnt_topics] WHERE [fid]=@fid);");
 
                         sb.AppendFormat("DELETE FROM [dnt_attachments] WHERE [tid] IN(SELECT [tid] FROM [dnt_topics] WHERE [fid]={0}) OR [pid] IN(SELECT [pid] FROM [{1}] WHERE [fid]={0}) ;", fid, postName);
 
                         sb.AppendFormat("DELETE FROM [{0}] WHERE [fid]={1};", postName, fid);
-                        sb.Append(@"DELETE FROM [dnt_topics] WHERE [fid]=@fid;
-DELETE FROM [dnt_forums] WHERE  [fid]=@fid;
-DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
+                        sb.Append(@"DELETE FROM [dnt_topics] WHERE [fid]=@fid;DELETE FROM [dnt_forums] WHERE  [fid]=@fid;DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
                         DbHelper.ExecuteNonQuery(trans, CommandType.Text, sb.ToString(), parms);
                     }
                     trans.Commit();
@@ -1130,9 +1127,9 @@ DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
 
             forumfields.AppendFormat("WHERE [fid] IN ({0})", fidList);
 
-            SqlConnection conn = new SqlConnection(DbHelper.ConnectionString);
+            Npgsql.NpgsqlConnection conn = new NpgsqlConnection(DbHelper.ConnectionString);
             conn.Open();
-            using (SqlTransaction trans = conn.BeginTransaction())
+            using (Npgsql.NpgsqlTransaction trans = conn.BeginTransaction())
             {
                 try
                 {
@@ -1177,8 +1174,7 @@ DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
                                         DbHelper.MakeInParam("@img", (DbType)NpgsqlDbType.Varchar, 50, img),
                                         DbHelper.MakeInParam("@title", (DbType)NpgsqlDbType.Varchar, 50, title)
                                     };
-            string commandText = string.Format("UPDATE [{0}onlinelist] SET [displayorder]=@displayorder, [title]=@title, [img]=@img  WHERE [groupid]=@groupid",
-                                                BaseConfigs.GetTablePrefix);
+            string commandText = string.Format("UPDATE [{0}onlinelist] SET [displayorder]=@displayorder, [title]=@title, [img]=@img  WHERE [groupid]=@groupid", BaseConfigs.GetTablePrefix);
             return DbHelper.ExecuteNonQuery(CommandType.Text, commandText, parms);
         }
 
@@ -1186,10 +1182,7 @@ DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
 
         public void UpdateBadWords(string find, string replacement)
         {
-            string commandText = string.Format("UPDATE [{0}words] set [replacement]='{1}' WHERE [find] ='{2}'",
-                                                BaseConfigs.GetTablePrefix,
-                                                replacement,
-                                                find);
+            string commandText = string.Format("UPDATE [{0}words] set [replacement]='{1}' WHERE [find] ='{2}'", BaseConfigs.GetTablePrefix, replacement, find);
             DbHelper.ExecuteNonQuery(CommandType.Text, commandText);
         }
 
@@ -1214,8 +1207,7 @@ DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
 
         public int AddWord(string userName, string find, string replacement)
         {
-            DbParameter[] parms = { 
-                                        DbHelper.MakeInParam("@username", (DbType)NpgsqlDbType.Varchar, 20, userName),
+            DbParameter[] parms = {DbHelper.MakeInParam("@username", (DbType)NpgsqlDbType.Varchar, 20, userName),
                                         DbHelper.MakeInParam("@find", (DbType)NpgsqlDbType.Varchar, 255, find),
                                         DbHelper.MakeInParam("@replacement", (DbType)NpgsqlDbType.Varchar, 255, replacement)
                                     };
@@ -1551,17 +1543,24 @@ DELETE FROM [dnt_moderators] WHERE  [fid]=@fid;");
             #endregion
         }
 
-        public void UpdateMyTopic()
-        {
-            //重建我的主题表
-            DbHelper.ExecuteNonQuery(CommandType.StoredProcedure, string.Format("{0}updatemytopic", BaseConfigs.GetTablePrefix));
-        }
+//        public void UpdateMyTopic()
+//        {
+//            //重建我的主题表
+//            string sql = @"DELETE FROM [dnt_mytopics]
+//INSERT INTO [dnt_mytopics]([uid], [tid], [dateline]) 
+//SELECT [posterid],[tid],[postdatetime] 
+//FROM [dnt_topics] 
+//WHERE [posterid]<>-1";
+//            DbHelper.ExecuteNonQuery(CommandType.Text, sql);
+//        }
 
-        public void UpdateMyPost()
-        {
-            //重建我的帖子表
-            DbHelper.ExecuteNonQuery(CommandType.StoredProcedure, string.Format("{0}updatemypost", BaseConfigs.GetTablePrefix));
-        }
+//        public void UpdateMyPost()
+//        {
+//            string sql = @"DELETE FROM [dnt_myposts]  INSERT INTO [dnt_myposts]([uid], [tid], [pid], [dateline])
+//		SELECT [posterid],[tid],[pid],[postdatetime] FROM [] WHERE [posterid]<>-1 ";
+//            //重建我的帖子表
+//            DbHelper.ExecuteNonQuery(CommandType.StoredProcedure, string.Format("{0}updatemypost", BaseConfigs.GetTablePrefix));
+//        }
 
 
         public DataTable GetAllIdentify()
