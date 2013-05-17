@@ -113,13 +113,20 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="admin\UserControls\pageinfo.ascx.cs">
+    <None Include="admin\rapidset\shortcut.aspx.cs">
+      <DependentUpon>shortcut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </None>
+    <None Include="admin\rapidset\shortcut.aspx.designer.cs">
+      <DependentUpon>shortcut.aspx</DependentUpon>
+    </None>
+    <None Include="admin\UserControls\pageinfo.ascx.cs">
       <DependentUpon>PageInfo.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="admin\UserControls\pageinfo.ascx.designer.cs">
+    </None>
+    <None Include="admin\UserControls\pageinfo.ascx.designer.cs">
       <DependentUpon>PageInfo.ascx</DependentUpon>
-    </Compile>
+    </None>
     <Compile Include="archiver\Index.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>

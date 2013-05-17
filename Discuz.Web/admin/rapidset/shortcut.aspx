@@ -130,7 +130,7 @@
 	            <td>服务器操作系统:</td><td align="left"><%=Environment.OSVersion.ToString()%></td>
 	        </tr>
 	        <tr>
-	            <td>服务器IIS版本:</td><td align="left"><%=Request.ServerVariables["SERVER_SOFTWARE"] %></td>
+	            <td>服务器版本:</td><td align="left"><%=Request.ServerVariables["SERVER_SOFTWARE"] %></td>
 	            <td>.NET解释引擎版本:</td><td align="left">.NET CLR  <%=Environment.Version.Major %>.<%=Environment.Version.Minor %>.<%=Environment.Version.Build %>.<%=Environment.Version.Revision %></td>
 	        </tr>
 	    </table>

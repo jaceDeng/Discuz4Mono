@@ -8,3 +8,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Sprea
 E:\OpenSource\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Debug\Discuz.Plugin.Spread.pdb

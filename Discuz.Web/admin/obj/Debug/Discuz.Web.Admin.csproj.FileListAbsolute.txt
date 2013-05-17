@@ -8,3 +8,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Admin.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Admin.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Admin.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Admin.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\admin\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\admin\obj\Debug\Discuz.Web.Admin.pdb

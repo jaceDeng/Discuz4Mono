@@ -589,9 +589,9 @@ namespace Discuz.Space
 
         public static void DeleteSpace(int userid)
         {
-            DbProvider.GetInstance().DeleteSpaceComments(userid);
-            DbProvider.GetInstance().DeleteSpacePosts(userid);
-            DbProvider.GetInstance().DeleteSpaceByUid(userid);
+            //DbProvider.GetInstance().DeleteSpaceComments(userid);
+            //DbProvider.GetInstance().DeleteSpacePosts(userid);
+            //DbProvider.GetInstance().DeleteSpaceByUid(userid);
         }
     }
 }

@@ -8,3 +8,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\space\obj\Debug\Discuz.Space.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web\space\obj\Debug\Discuz.Space.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Space.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Space.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Space.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Space.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Debug\Discuz.Space.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Debug\Discuz.Space.pdb
