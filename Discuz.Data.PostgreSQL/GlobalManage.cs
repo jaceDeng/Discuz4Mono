@@ -3070,5 +3070,16 @@ namespace Discuz.Data.PostgreSQL
                                                 BaseConfigs.GetTablePrefix);
             return TypeConverter.ObjectToInt(DbHelper.ExecuteScalar(CommandType.Text, commandText, parms)) > 0;
         }
+
+
+        public void UpdateMyTopic()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateMyPost()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

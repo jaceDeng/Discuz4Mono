@@ -26,3 +26,17 @@ E:\OpenSource\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Config.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\Discuz.Plugin.Mail.SysMail.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\Discuz.Plugin.Mail.SysMail.dll
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\Discuz.Plugin.Mail.SysMail.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Plugin.Mail.SysMail.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Plugin.Mail.SysMail.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Plugin.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Plugin.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\bin\Debug\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\Discuz.Plugin.Mail.SysMail.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Debug\Discuz.Plugin.Mail.SysMail.pdb

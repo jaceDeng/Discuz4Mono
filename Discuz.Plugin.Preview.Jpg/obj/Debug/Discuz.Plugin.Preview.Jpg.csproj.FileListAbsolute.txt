@@ -8,3 +8,7 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.dll
 E:\OpenSource\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Preview.Jpg.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Preview.Jpg\obj\Debug\Discuz.Plugin.Preview.Jpg.pdb

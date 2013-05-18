@@ -8,3 +8,7 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Event.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.dll
 E:\OpenSource\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Event.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Event.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Event\obj\Debug\Discuz.Event.pdb

@@ -10,6 +10,7 @@ using Discuz.Common;
 using Discuz.Entity;
 using Discuz.Common.Generic;
 using NpgsqlTypes;
+using Npgsql;
 
 namespace Discuz.Data.PostgreSQL
 {
@@ -696,9 +697,9 @@ namespace Discuz.Data.PostgreSQL
         /// <returns></returns>
         public bool DelUserAllInf(int uid, bool delPosts, bool delPms)
         {
-            SqlConnection conn = new SqlConnection(DbHelper.ConnectionString);
+            Npgsql.NpgsqlConnection conn = new NpgsqlConnection(DbHelper.ConnectionString);
             conn.Open();
-            using (SqlTransaction trans = conn.BeginTransaction())
+            using (NpgsqlTransaction trans = conn.BeginTransaction())
             {
                 try
                 {

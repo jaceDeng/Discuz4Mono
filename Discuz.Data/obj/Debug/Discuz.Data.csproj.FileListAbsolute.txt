@@ -26,3 +26,17 @@ E:\OpenSource\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Entity.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Data\obj\Debug\Discuz.Data.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Data\obj\Debug\Discuz.Data.dll
 E:\OpenSource\Discuz4Mono\Discuz.Data\obj\Debug\Discuz.Data.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Data.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Data.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Cache.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Cache.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\bin\Debug\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\obj\Debug\Discuz.Data.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data\obj\Debug\Discuz.Data.pdb

@@ -8,3 +8,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Services.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Web.Services\obj\Debug\Discuz.Web.Services.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Web.Services\obj\Debug\Discuz.Web.Services.dll
 E:\OpenSource\Discuz4Mono\Discuz.Web.Services\obj\Debug\Discuz.Web.Services.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Services.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Services.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Debug\Discuz.Web.Services.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Debug\Discuz.Web.Services.pdb

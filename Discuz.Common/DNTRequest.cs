@@ -160,7 +160,7 @@ namespace Discuz.Common
             if (sqlSafeCheck && !Utils.IsSafeSqlString(HttpContext.Current.Request.QueryString[strName]))
                 return "unsafe string";
 
-            return HttpContext.Current.Request.QueryString[strName];
+            return HttpContext.Current.Server.HtmlEncode( HttpContext.Current.Request.QueryString[strName]);
         }
 
 		/// <summary>

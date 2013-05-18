@@ -8,3 +8,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Data.SqlServer.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\Discuz.Data.SqlServer.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\Discuz.Data.SqlServer.dll
 E:\OpenSource\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\Discuz.Data.SqlServer.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Data.SqlServer.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Data.SqlServer.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\Discuz.Data.SqlServer.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.SqlServer\obj\Debug\Discuz.Data.SqlServer.pdb

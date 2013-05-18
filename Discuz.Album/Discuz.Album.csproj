@@ -52,6 +52,14 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Mono.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\RefDLL\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.0.11.94, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\RefDLL\Npgsql.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -167,10 +175,6 @@
     <ProjectReference Include="..\Discuz.Control\Discuz.Control.csproj">
       <Project>{2A067E35-B67E-4D43-B9A3-5C2037CF2696}</Project>
       <Name>Discuz.Control</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Discuz.Data.SqlServer\Discuz.Data.SqlServer.csproj">
-      <Project>{A1A66329-FE25-47D7-98FE-5F1EC3D2A872}</Project>
-      <Name>Discuz.Data.SqlServer</Name>
     </ProjectReference>
     <ProjectReference Include="..\Discuz.Data\Discuz.Data.csproj">
       <Project>{CAA860C2-28D3-4D1B-8D7B-3A83C94DAA65}</Project>

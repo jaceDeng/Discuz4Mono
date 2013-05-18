@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Common\bin\Release\Discuz.Common.
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Common\bin\Release\NVelocity.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Common\obj\Release\Discuz.Common.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Common\obj\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\bin\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\bin\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\bin\Release\NVelocity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\obj\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\obj\Release\Discuz.Common.pdb

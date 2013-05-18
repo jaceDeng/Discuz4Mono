@@ -23,3 +23,8 @@ E:\OpenSource\Discuz4Mono\Discuz.Web\bin\Discuz.Data.PostgreSQL.pdb
 E:\OpenSource\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\Discuz.Data.PostgreSQL.csprojResolveAssemblyReference.cache
 E:\OpenSource\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\Discuz.Data.PostgreSQL.dll
 E:\OpenSource\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\Discuz.Data.PostgreSQL.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\Discuz.Data.PostgreSQL.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Data.PostgreSQL\obj\Debug\Discuz.Data.PostgreSQL.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Data.PostgreSQL.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Data.PostgreSQL.pdb
