@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Space.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\obj\Release\Discuz.Space.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\obj\Release\Discuz.Space.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\space\obj\Release\Discuz.Space.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Space.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Space.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Release\Discuz.Space.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\space\obj\Release\Discuz.Space.pdb

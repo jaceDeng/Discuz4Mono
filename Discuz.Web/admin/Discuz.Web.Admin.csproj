@@ -1124,12 +1124,12 @@
     <Compile Include="UserControls\forumstree.ascx.designer.cs">
       <DependentUpon>forumstree.ascx.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControls\onlineeditor.ascx.cs">
-      <DependentUpon>onlineeditor.ascx</DependentUpon>
+    <Compile Include="UserControls\OnlineEditor.ascx.cs">
+      <DependentUpon>OnlineEditor.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="UserControls\onlineeditor.ascx.designer.cs">
-      <DependentUpon>onlineeditor.ascx.cs</DependentUpon>
+    <Compile Include="UserControls\OnlineEditor.ascx.designer.cs">
+      <DependentUpon>OnlineEditor.ascx.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControls\pageinfo.ascx.cs">
       <DependentUpon>pageinfo.ascx</DependentUpon>
@@ -1915,7 +1915,7 @@
     <Content Include="UserControls\forumstree.ascx">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
-    <Content Include="UserControls\onlineeditor.ascx">
+    <Content Include="UserControls\OnlineEditor.ascx">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
     <Content Include="UserControls\pageinfo.ascx">

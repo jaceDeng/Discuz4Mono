@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Mail.SysMai
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Mail.SysMail\obj\Release\Discuz.Plugin.Mail.SysMail.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Mail.SysMail\obj\Release\Discuz.Plugin.Mail.SysMail.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin.Mail.SysMail\obj\Release\Discuz.Plugin.Mail.SysMail.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Mail.SysMail.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Mail.SysMail.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Release\Discuz.Plugin.Mail.SysMail.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin.Mail.SysMail\obj\Release\Discuz.Plugin.Mail.SysMail.pdb

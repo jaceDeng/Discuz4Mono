@@ -6,3 +6,11 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\bin\Release\Discuz.Common.
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Entity\obj\Release\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\bin\Release\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\bin\Release\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\bin\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\bin\Release\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\bin\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\obj\Release\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Entity\obj\Release\Discuz.Entity.pdb

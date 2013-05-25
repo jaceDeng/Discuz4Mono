@@ -8,3 +8,4 @@ E:\OpenSourceCode\Discuz4Mono\Discuz.Common\bin\Release\Discuz.Common.pdb
 E:\OpenSourceCode\Discuz4Mono\Discuz.Common\bin\Release\NVelocity.dll
 E:\OpenSourceCode\Discuz4Mono\Discuz.Common\obj\Release\Discuz.Common.dll
 E:\OpenSourceCode\Discuz4Mono\Discuz.Common\obj\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Common\obj\Release\ResolveAssemblyReference.cache

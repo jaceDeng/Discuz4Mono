@@ -1941,12 +1941,13 @@ INSERT INTO dnt_postid (postdatetime) VALUES(now());");
         public IDataReader GetSitemapNewTopics(string forumIdList)
         {
             DbParameter[] parm = { DbHelper.MakeInParam("@fidlist", (DbType)NpgsqlDbType.Varchar, 500, forumIdList) };
-            StringBuilder sb = new StringBuilder ();
+            StringBuilder sb = new StringBuilder();
             if (!string.IsNullOrEmpty(forumIdList))
             {
                 sb.Append("SELECT  [tid], [fid], [title], [poster], [postdatetime], [lastpost], [replies], [views], [digest] FROM [dnt_topics] WHERE [fid] NOT IN (" + forumIdList + ") ORDER BY [tid] DESC  LIMIT 20");
             }
-            else {
+            else
+            {
                 sb.Append("SELECT   [tid], [fid], [title], [poster], [postdatetime], [lastpost], [replies], [views], [digest] FROM [dnt_topics] ORDER BY [tid] DESC LIMIT 20");
             }
             return DbHelper.ExecuteReaderInMasterDB(CommandType.Text, sb.ToString(), parm);
@@ -3501,7 +3502,25 @@ select  currval('dnt_topics_tid_seq');  ");
                                         DbHelper.MakeInParam("@fid", (DbType)NpgsqlDbType.Integer, 4, forumInfo.Fid),
                                         DbHelper.MakeInParam("@visibleforums", (DbType)NpgsqlDbType.Varchar, 4000, visibleForums)
                                   };
-            return TypeConverter.ObjectToInt(DbHelper.ExecuteScalar(CommandType.StoredProcedure, string.Format("{0}getlastposttid", BaseConfigs.GetTablePrefix), parms), -1);
+            string sql = "";
+            if (string.IsNullOrEmpty(visibleForums))
+                sql = @"SELECT   [tid] FROM [dnt_topics] AS t LEFT JOIN [dnt_forums] AS f  ON [t].[fid] = [f].[fid] 
+WHERE [t].[closed]<>1 AND  [t].[displayorder] >=0  AND ([t].[fid] = @fid 
+OR position(',' + to_char( @fid ,'999' )+ ',' , ',' + RTRIM([f].[parentidlist]) + ',') > 0 )  
+ORDER BY [t].[lastpost] DESC  LIMIT 1";
+            else
+                sql = @"SELECT  
+        [tid]
+FROM    [dnt_topics] AS t
+        LEFT JOIN [dnt_forums] AS f ON [t].[fid] = [f].[fid]
+WHERE   [t].[closed] <> 1
+        AND [t].[displayorder] >= 0
+        AND ( [t].[fid] = @fid
+              OR POSTION(',' + to_char(  @fid,'999') + ',',
+                           ',' + RTRIM([f].[parentidlist]) + ',') > 0 )
+        AND [t].[fid] IN ( @visibleforums )
+ORDER BY [t].[lastpost] DESC   limit 1";
+            return TypeConverter.ObjectToInt(DbHelper.ExecuteScalar(CommandType.Text, sql, parms), -1);
         }
 
         public void SetPostsBanned(string tableId, string postListId, int invisible)

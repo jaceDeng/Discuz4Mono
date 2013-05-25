@@ -2,12 +2,12 @@
 using System.Text;
 using System.Data;
 using System.Data.Common;
-using System.Data.SqlClient; 
+using System.Data.SqlClient;
 using Discuz.Data;
 using Discuz.Config;
 using Discuz.Common;
-using Discuz.Entity; 
-using System.Text.RegularExpressions; 
+using Discuz.Entity;
+using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using NpgsqlTypes;
 
@@ -2296,7 +2296,7 @@ namespace Discuz.Data.PostgreSQL
                 DbHelper.ExecuteNonQuery(string.Format("UPDATE [{0}users] SET [newpm]=0 WHERE [uid] IN (SELECT  [msgtoid] FROM [{0}pms] {1} Order By [pmid] ASC limit 100)", BaseConfigs.GetTablePrefix, commandText));
             }
             //最多每次只删除100条记录
-            return DbHelper.ExecuteNonQuery(string.Format("DELETE FROM [{0}pms] WHERE [pmid] IN (SELECT   [pmid] FROM [{0}pms] {1} Order By [pmid] ASC  limit 100)", BaseConfigs.GetTablePrefix, commandText));            
+            return DbHelper.ExecuteNonQuery(string.Format("DELETE FROM [{0}pms] WHERE [pmid] IN (SELECT   [pmid] FROM [{0}pms] {1} Order By [pmid] ASC  limit 100)", BaseConfigs.GetTablePrefix, commandText));
         }
 
         public DataTable GetAdminGroups()
@@ -2801,7 +2801,7 @@ namespace Discuz.Data.PostgreSQL
                                         DbHelper.MakeInParam("@posterid", (DbType)NpgsqlDbType.Integer, 4, noticeInfo.Posterid),
                                         DbHelper.MakeInParam("@poster", (DbType)NpgsqlDbType.Char, 20, noticeInfo.Poster),
                                         DbHelper.MakeInParam("@note", (DbType)NpgsqlDbType.Text, 0, noticeInfo.Note),
-                                        DbHelper.MakeInParam("@postdatetime", (DbType)NpgsqlDbType.Timestamp, 8, noticeInfo.Postdatetime),
+                                        DbHelper.MakeInParam("@postdatetime", (DbType)NpgsqlDbType.Timestamp, 8, DateTime.Parse(  noticeInfo.Postdatetime)),
                                         DbHelper.MakeInParam("@fromid", (DbType)NpgsqlDbType.Integer, 4, noticeInfo.Fromid)
                                     };
             return TypeConverter.ObjectToInt(DbHelper.ExecuteScalar(CommandType.StoredProcedure,

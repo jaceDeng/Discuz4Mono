@@ -10,3 +10,15 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin\bin\Release\Discuz.Entity.
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin\obj\Release\Discuz.Plugin.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin\obj\Release\Discuz.Plugin.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Plugin\obj\Release\Discuz.Plugin.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Plugin.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Plugin.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\bin\Release\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\obj\Release\Discuz.Plugin.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Plugin\obj\Release\Discuz.Plugin.pdb

@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Plugin.Spread.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Release\Discuz.Plugin.Spread.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Release\Discuz.Plugin.Spread.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\plugin\Spread\obj\Release\Discuz.Plugin.Spread.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Plugin.Spread.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Release\Discuz.Plugin.Spread.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\plugin\Spread\obj\Release\Discuz.Plugin.Spread.pdb

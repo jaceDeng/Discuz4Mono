@@ -6,3 +6,11 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Config\bin\Release\Discuz.Common.
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Config\obj\Release\Discuz.Config.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Config\obj\Release\Discuz.Config.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Config\obj\Release\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\bin\Release\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\bin\Release\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\bin\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\bin\Release\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\bin\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\obj\Release\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Config\obj\Release\Discuz.Config.pdb

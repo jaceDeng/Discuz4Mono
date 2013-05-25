@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Web.Services.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web.Services\obj\Release\Discuz.Web.Services.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web.Services\obj\Release\Discuz.Web.Services.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web.Services\obj\Release\Discuz.Web.Services.csprojResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Services.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Web.Services.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Release\Discuz.Web.Services.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web.Services\obj\Release\Discuz.Web.Services.pdb

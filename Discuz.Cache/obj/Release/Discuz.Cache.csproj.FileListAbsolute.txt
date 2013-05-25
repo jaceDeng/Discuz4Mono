@@ -10,3 +10,15 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Cache\bin\Release\Discuz.Entity.p
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Cache\obj\Release\Discuz.Cache.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Cache\obj\Release\Discuz.Cache.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Cache\obj\Release\Discuz.Cache.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Cache.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Cache.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Common.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Config.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Entity.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Newtonsoft.Json.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Common.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Config.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\bin\Release\Discuz.Entity.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\obj\Release\Discuz.Cache.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Cache\obj\Release\Discuz.Cache.pdb

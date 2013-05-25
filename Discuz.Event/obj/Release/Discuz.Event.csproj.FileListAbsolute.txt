@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Event.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Release\Discuz.Event.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Release\Discuz.Event.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Event\obj\Release\Discuz.Event.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Event.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Event.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Event\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Event\obj\Release\Discuz.Event.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Event\obj\Release\Discuz.Event.pdb

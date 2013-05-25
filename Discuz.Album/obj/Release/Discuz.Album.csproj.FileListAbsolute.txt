@@ -3,3 +3,8 @@ E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Web\bin\Discuz.Album.pdb
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Album\obj\Release\Discuz.Album.csprojResolveAssemblyReference.cache
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Album\obj\Release\Discuz.Album.dll
 E:\OpenSource\dnt_3.6.711_sqlserver_src\Discuz.Album\obj\Release\Discuz.Album.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Album.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Web\bin\Discuz.Album.pdb
+E:\OpenSourceCode\Discuz4Mono\Discuz.Album\obj\Release\ResolveAssemblyReference.cache
+E:\OpenSourceCode\Discuz4Mono\Discuz.Album\obj\Release\Discuz.Album.dll
+E:\OpenSourceCode\Discuz4Mono\Discuz.Album\obj\Release\Discuz.Album.pdb
